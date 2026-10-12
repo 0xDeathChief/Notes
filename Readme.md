@@ -953,3 +953,4 @@ curl -s -b cookies.txt http://192.168.16.1/index.php
 - [ ] Lab শেষে interface ও network services স্বাভাবিক অবস্থায় ফেরানোর গুরুত্ব বুঝি।
 
 **End of document — Wi-Fi Fundamentals and Reconnaissance**
+
